@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: Prajwal Rao
 ---
 
-# Site Title
+# Prajwal Rao
 
 <div class="row mt-4">
   <div class="col-md-4">
