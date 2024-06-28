@@ -1,0 +1,10 @@
+title: "My Profile Site"
+theme: jekyll-theme-minimal
+
+collections:
+  about:
+    output: true
+  achievements:
+    output: true
+  projects:
+    output: true
