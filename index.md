@@ -8,7 +8,7 @@ title: Prajwal Rao
 <div class="row mt-4">
   <div class="col-md-4">
     <div class="card">
-      <img src="assets/images/profile_picture.jpg" class="card-img-top profile-picture" alt="Profile Picture">
+      <img src="assets/images/profile_picture.png" class="card-img-top profile-picture" alt="Profile Picture">
     </div>
   </div>
   <div class="col-md-8">
